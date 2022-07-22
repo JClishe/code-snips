@@ -1,0 +1,55 @@
+
+alias ls=‘ls --color -h -l --group-directories-first’
+alias ls=‘ls --color -h -l --group-directories-first’
+
+alias ls=‘ls --color -h -l --group-directories-first’
+Jul 19, 2022
+{today}
+alias ls=‘ls --color -h -l --group-directories-first’
+
+# Begin new code snippet
+alias ls=‘ls --color -h -l --group-directories-first’
+# End new code snippet
+
+
+# Begin new code snippet
+alias ls=‘ls --color -h -l --group-directories-first’
+# End new code snippet
+
+# Begin new code snippet
+alias ls=‘ls --color -h -l --group-directories-first’
+# End new code snippet
+
+# Begin new code snippet
+alias ls=‘ls --color -h -l --group-directories-first’
+# End new code snippet
+
+
+
+
+
+# Begin new code snippet
+alias ls=‘ls --color -h -l --group-directories-first’
+# End new code snippet
+
+
+
+
+
+# Begin new code snippet
+alias ls=‘ls --color -h -l --group-directories-first’
+# End new code snippet
+
+# Begin new code snippet
+You'll find the Workflows section in Alfred's preferences under the "Workflows" header. Take a look at the topics below to discover how workflows can help you make repetitive tasks a thing of the past, making you more efficient on your Mac in ways you never thought possible!
+# End new code snippet
+
+
+
+# Begin new code snippet
+git@github.com:JClishe/code-snips.git
+# End new code snippet
+
+# Begin new code snippet
+My short description
+# End new code snippet
