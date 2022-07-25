@@ -53,3 +53,19 @@ git@github.com:JClishe/code-snips.git
 # Begin new code snippet
 My short description
 # End new code snippet
+
+# Begin new code snippet
+~/jc/Repos/code-snips/00-inbox.txt
+# End new code snippet
+
+# Begin new code snippet
+Conflicts with casks:
+# End new code snippet
+
+# Begin new code snippet
+2. Perform these Commands, Pressing the enter Key Afterwards:
+To Unhide Use this Command:
+defaults write com.apple.Finder AppleShowAllFiles true                      
+To Hide Use this Command:
+defaults write com.apple.Finder AppleShowAllFiles false   
+# End new code snippet
