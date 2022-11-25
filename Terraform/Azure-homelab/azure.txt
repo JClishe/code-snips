@@ -1,0 +1,6 @@
+Name                            CloudName    SubscriptionId                        TenantId                              State    IsDefault
+------------------------------  -----------  ------------------------------------  ------------------------------------  -------  -----------
+EdgeOS_IoT_CBL-Mariner_DevTest  AzureCloud   0012ca50-c773-43b2-80e2-f24b6377145c  72f988bf-86f1-41af-91ab-2d7cd011db47  Enabled  True
+IGNW-Customer-POC               AzureCloud   53191582-ab8f-4451-96c8-995f7d00123b  b81d7c17-75bd-4272-8b31-171ea6c31427  Enabled  False
+N/A(tenant level account)       AzureCloud   de9231de-45f4-4325-ae07-8ae72052517e  de9231de-45f4-4325-ae07-8ae72052517e  Enabled  False
+N/A(tenant level account)       AzureCloud   b38e8338-5d36-48f8-8ea4-18cc0ece15ef  b38e8338-5d36-48f8-8ea4-18cc0ece15ef  Enabled  False
