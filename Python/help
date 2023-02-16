@@ -1,0 +1,23 @@
+Python commands and notes
+
+python3 --version 
+
+Strings
+    Double or single quotes, no difference
+    Print a string
+        print("This is cool")
+    f-strings (formatted string literals) use curly braces to replace expressions with their values
+        ex: print(f"20 days are {20 * 24 * 60} minutes")
+
+Integer (Int)
+    Whole number, positive or negative, without decimals
+
+Floating Point Number (Float)
+    Positive or negative number containing 1 or more decimals
+
+3 types of functions
+    1) Built-in functions native to Python
+    2) Functions that we create and define using "def"
+    3) Functions called on a data type. Ex. "2, 3".split() is calling the split function on a list (could also be a variable)
+        - Each data type has its own built-in functions, which are useful and/or make sense for that specific data type 
+        - the () after the function allows you to enter additional parameters specific to that function 
