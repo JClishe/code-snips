@@ -22,6 +22,7 @@ car = Car()
 car.turn_on()
 car.drive()
 
-car.turn_on().drive()
+#with method chaining, we can do this:
+car.turn_on().drive() #those "return self" lines are needed in order for this to work
 
 

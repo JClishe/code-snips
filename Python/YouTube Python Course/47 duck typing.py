@@ -28,5 +28,5 @@ chicken = Chicken()
 person = Person()
 
 person.catch(duck)
-person.catch(chicken) #the Person.catch function is expecting a duck as an argument to be passed in, but it will accept a chicken because chicken also has walk and talk functions 
+person.catch(chicken) #the Person.catch function is expecting a duck as an argument to be passed in, but it will accept a chicken because chicken also has walk and talk functions. If we comment out a function in the chicken class, this will no longer work
 

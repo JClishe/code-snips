@@ -1,3 +1,5 @@
+#pass objects into an argument much like how variables are passed in 
+
 class Car:
 
     color = None
