@@ -1,11 +1,11 @@
-#create dictionaries using an expression, can replace for loops and certain lambda functions
+"""
+create dictionaries using an expression, can replace for loops and certain lambda functions
 
-#dictionary = {key: expression for (key,value) in iterable}
-#dictionary = {key: expression for (key,value) in iterable if conditional}
-#dictionary = {key: (if/else) for (key,value) in iterable}
-#dictionary = {key: function(value) for (key,value) in iterable}
-
-#===
+dictionary = {key: expression for (key,value) in iterable}
+dictionary = {key: expression for (key,value) in iterable if conditional}
+dictionary = {key: (if/else) for (key,value) in iterable}
+dictionary = {key: function(value) for (key,value) in iterable}
+"""
 
 #convert a ditionary of fahrenheit values to celsius
 cities_in_F = {'New York': 32, 'Boston': 75, 'Los Angeles': 100, 'Chicago': 50}

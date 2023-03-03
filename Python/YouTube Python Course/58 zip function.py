@@ -1,6 +1,8 @@
-#aggregate elements from two or more iterables. Creates a zip object with paired elements stored in tuples for each element
+"""
+aggregate elements from two or more iterables. Creates a zip object with paired elements stored in tuples for each element
 
-#zip(*iterables)
+zip(*iterables)
+"""
 
 usernames = ["Dude", "Bro", "Mister"]
 passwords = ("p@ssword", "abc123", "guest")

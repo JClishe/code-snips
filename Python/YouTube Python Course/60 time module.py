@@ -16,3 +16,13 @@ print(time_object)
 local_time = time.strftime("%B %d %Y %H:%M:%S", time_object) #see the Python documentation for a listing of time format directives
 print(local_time)
 
+#Parse time from a string format to a time object
+time_string = "20 April, 2023"
+time_object = time.strptime(time_string,"%d %B, %Y")
+print(time_object)
+
+#Create a string based on a time tuple
+#(year, month, day, hours, minutes, seconds, #day of week, #day of year, dst)
+time_tuple = (1975, 4, 25, 6, 53, 0, 0, 0, 0)
+time_string = time.asctime(time_tuple)
+print(time_string)
