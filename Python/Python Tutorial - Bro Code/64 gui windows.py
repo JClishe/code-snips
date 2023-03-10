@@ -8,7 +8,7 @@ import tkinter
 window = tkinter.Tk() # Instantiate an instance of a window
 window.geometry("1024x1024")
 window.title("Jason Clishe")
-window.config(background="white")
+window.config(background="white") # Can also use hex value preceeded with a #
 
 
 window.mainloop() # Place a window on computer screen, listen for events
