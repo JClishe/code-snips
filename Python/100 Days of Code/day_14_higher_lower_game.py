@@ -1,6 +1,5 @@
 import random
 from day_14_art import logo, vs
-#from day_14_art import vs
 from day_14_game_data import data
 
 option_a = (random.choice(data))

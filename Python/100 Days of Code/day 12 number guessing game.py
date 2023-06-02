@@ -12,6 +12,7 @@ difficulty = input("Choose a difficulty. Type 'easy' or 'hard': ").lower()
 number = random.randint(1, 100)
 
 def compare(guesses_remaining):
+    """This is a docstring"""
     for i in range(guesses_remaining):
         print(f"You have {guesses_remaining} attempts remaining to guess.")
         guess = int(input("Make a guess: \n")) #prompt the user to guess a number and store it in a variable called 'guess'
