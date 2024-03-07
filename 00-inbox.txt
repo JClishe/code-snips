@@ -1,9 +1,0 @@
-
-
-# Begin new code snippet
-2. Perform these Commands, Pressing the enter Key Afterwards:
-To Unhide Use this Command:
-defaults write com.apple.Finder AppleShowAllFiles true                      
-To Hide Use this Command:
-defaults write com.apple.Finder AppleShowAllFiles false   
-# End new code snippet
